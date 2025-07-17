@@ -1,8 +1,4 @@
-<h1 align="center">Hi there, I'm Attar 👋</h1>
-
-<p align="center">
-  <strong>Digital Experiences | Fullstack Web Developer & Digital Marketer</strong>
-</p>
+<h1 align="center">Fullstack Web Developer & Digital Marketer</h1>
 
 ---
 
