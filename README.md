@@ -6,9 +6,7 @@
 
 ---
 
-<p align="center">
-  <strong>Tech Stack</strong>
-</p>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" title="HTML5" />
@@ -37,44 +35,51 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="70" title="Webflow" />
 </p>
 
-## 🧠 Skills & Expertise
+---
 
-- 💻 Full Stack Web Developer  
-- 📈 Digital Marketing  
-- 📣 Advertising  
-- 🎨 Graphic Design
+<h2 align="center">🧠 Skills & Expertise</h2>
+
+<p align="center">
+💻 Full Stack Web Developer<br/>
+📈 Digital Marketing<br/>
+📣 Advertising<br/>
+🎨 Graphic Design
+</p>
 
 ---
 
+<h2 align="center">🌐 Project</h2>
 
-## 🌐 Project
-
-- 🔗 [pengenboost.my.id](https://pengenboost.my.id) — Company Website  
-- 🔗 [pengenboost.vercel.app](https://pengenboost.vercel.app) — Landing Page  
-- 🔗 [attarsaputra.my.id](https://attarsaputra.my.id) — Portfolio Website  
-
----
-
-## 📜 Certification
-
-- 🎓 **Hacktiv8** – Full Stack Web Development  
-  [🔗 View Certificate](https://qyiakbrhyqgosswhipvq.supabase.co/storage/v1/object/public/attar//certificate.png)
-
-- 🏢 **CV. MEDIA INNOVASI BERKARYA** – Software Engineering  
-  [🔗 View Certificate](https://qyiakbrhyqgosswhipvq.supabase.co/storage/v1/object/public/attar//serti%20atar.jfif)
-
-- 🇬🇧 **EFSET** – English Certificate  
-  [🔗 View Certificate](https://links.t-educationfirst.mkt4686.com/servlet/MailView?ms=NTY0Mzg4NTES1&r=LTg2MzcyOTY2NjAS1&j=MjUyMTgyNjE1MwS2&mt=1&rt=0)
-
-- 📊 **Coursera** – Business Analysis & Process Management  
-  [🔗 View Certificate](https://www.coursera.org/account/accomplishments/verify/LAC8GYPHAYXM?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)
+<p align="center">
+🔗 <a href="https://pengenboost.my.id">pengenboost.my.id</a> — Company Website<br/>
+🔗 <a href="https://pengenboost.vercel.app">pengenboost.vercel.app</a> — Landing Page<br/>
+🔗 <a href="https://attarsaputra.my.id">attarsaputra.my.id</a> — Portfolio Website
+</p>
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="center">📜 Certification</h2>
+
+<p align="center">
+🎓 <strong>Hacktiv8</strong> – Full Stack Web Development  
+<a href="https://qyiakbrhyqgosswhipvq.supabase.co/storage/v1/object/public/attar//certificate.png">🔗 View Certificate</a>
+<br/><br/>
+🏢 <strong>CV. MEDIA INOVASI BERKARYA</strong> – Software Engineering  
+<a href="https://qyiakbrhyqgosswhipvq.supabase.co/storage/v1/object/public/attar//serti%20atar.jfif">🔗 View Certificate</a>
+<br/><br/>
+🇬🇧 <strong>EFSET</strong> – English Certificate  
+<a href="https://links.t-educationfirst.mkt4686.com/servlet/MailView?ms=NTY0Mzg4NTES1&r=LTg2MzcyOTY2NjAS1&j=MjUyMTgyNjE1MwS2&mt=1&rt=0">🔗 View Certificate</a>
+<br/><br/>
+📊 <strong>Coursera</strong> – Business Analysis & Process Management  
+<a href="https://www.coursera.org/account/accomplishments/verify/LAC8GYPHAYXM?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project">🔗 View Certificate</a>
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=attarsaputra&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
+  <br/><br/>
   <img src="https://streak-stats.demolab.com?user=attarsaputra&theme=radical" alt="GitHub Streak" />
 </p>
