@@ -2,7 +2,9 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&width=435&lines=🚀+Tech+Stack" alt="Typing SVG" />
+</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" title="HTML5" />
@@ -41,9 +43,6 @@
   
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AttarSaputra&layout=compact&theme=radical&langs_count=10&cache_seconds=30" />
-</p>
 ---
 
 <h2 align="center">🧠 Skills & Expertise</h2>
