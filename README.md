@@ -58,7 +58,7 @@
 
 ---
 
-## 🌐 Portfolio Website
+## 🌐 Project
 
 - 🔗 [pengenboost.my.id](https://pengenboost.my.id) — Company Website  
 - 🔗 [pengenboost.vercel.app](https://pengenboost.vercel.app) — Landing Page  
