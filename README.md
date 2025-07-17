@@ -6,17 +6,6 @@
 
 ---
 
-## 📌 About Me
-
-Dengan pengalaman **4+ tahun** dalam **Pengembangan Web** dan **Pemasaran Digital**, saya membuat solusi inovatif yang menghasilkan hasil.
-
-Perjalanan saya berkembang dari rasa ingin tahu tentang cara kerja situs web menjadi hasrat untuk membangun pengalaman yang lancar.
-
-Saya memadukan keterampilan teknis & visi kreatif untuk menghasilkan proyek yang tampak hebat dan berkinerja luar biasa.  
-Dari website responsif hingga kampanye yang menarik, saya membantu bisnis berkembang secara digital.
-
----
-
 ## 🧠 Skills & Expertise
 
 - 💻 Full Stack Web Developer  
