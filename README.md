@@ -1,6 +1,6 @@
 <h1 align="center">Fullstack Web Developer & Digital Marketer</h1>
 
----
+
 
 <h2 align="center">Tech Stack</h2>
 
