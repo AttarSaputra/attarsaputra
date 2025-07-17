@@ -6,15 +6,6 @@
 
 ---
 
-## 🧠 Skills & Expertise
-
-- 💻 Full Stack Web Developer  
-- 📈 Digital Marketing  
-- 📣 Advertising  
-- 🎨 Graphic Design
-
----
-
 <p align="center">
   <strong>Tech Stack</strong>
 </p>
@@ -45,6 +36,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="70" title="Netlify" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="70" title="Webflow" />
 </p>
+
+## 🧠 Skills & Expertise
+
+- 💻 Full Stack Web Developer  
+- 📈 Digital Marketing  
+- 📣 Advertising  
+- 🎨 Graphic Design
+
+---
 
 
 ## 🌐 Project
