@@ -3,7 +3,9 @@
 <p align="center"> <img src="https://img.shields.io/badge/JavaScript-40%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-20%25-blue?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-10%25-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-8%25-orange?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-6%25-blue?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-5%25-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4%25-003B57?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SASS-2%25-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-2%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Other-3%25-gray?style=for-the-badge" /> </p>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AttarSaputra&layout=compact&theme=radical&langs_count=10" alt="Top Langs by Repo" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AttarSaputra&layout=compact&theme=radical&langs_count=10" />
+</p>
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
