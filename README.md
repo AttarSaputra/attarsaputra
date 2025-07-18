@@ -1,4 +1,4 @@
-<h1 align="center">Fullstack Web Developer, Digital Strategist & Performance Marketer</h1>
+  <h1 align="center">Fullstack Web Developer, Digital Marketer</h1>
 
 ---
 
