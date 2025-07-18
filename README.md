@@ -41,11 +41,10 @@
   
 </p>
 
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AttarSaputra&layout=compact&theme=radical&custom_title=Languages%20I%20Use%20Most&title_color=ff79c6&text_color=ffffff&langs_count=8" 
-    alt="Language Stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AttarSaputra&layout=compact&theme=nightowl&bg_color=0d1117&title_color=50fa7b&text_color=8be9fd&langs_count=10" 
+    alt="Top Langs by Repo"
   />
 </p>
 
