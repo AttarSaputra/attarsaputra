@@ -47,7 +47,6 @@
 💻 Full Stack Web Developer<br/>
 📈 Digital Marketing<br/>
 📣 Advertising<br/>
-🎨 Graphic Design
 </p>
 
 ---
