@@ -45,7 +45,6 @@
 <p align="center">
 💻 Full Stack Web Developer<br/>
 📈 Digital Marketing<br/>
-📣 Advertising<br/>
 </p>
 
 ---
@@ -53,9 +52,8 @@
 <h2 align="center">🌐 Project</h2>
 
 <p align="center">
-🔗 <a href="https://pengenboost.my.id">pengenboost.my.id</a> — Company Website<br/>
-🔗 <a href="https://pengenboost.vercel.app">pengenboost.vercel.app</a> — Landing Page<br/>
-🔗 <a href="https://attarsaputra.my.id">attarsaputra.my.id</a> — Portfolio Website
+🔗 <a href="https://pengenboost.vercel.app">pengenboost.id</a> — Company Website<br/>
+🔗 <a href="https://attarsaputra.vercel.app">attarsaputra.id</a> — Portfolio Website
 </p>
 
 ---
