@@ -75,20 +75,3 @@
 </p>
 
 ---
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=attarsaputra&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=attarsaputra&theme=radical" alt="GitHub Streak" />
-</p>
-
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AttarSaputra&layout=compact&theme=nightowl&bg_color=0d1117&title_color=50fa7b&text_color=8be9fd&langs_count=10" 
-    alt="Top Langs by Repo"
-  />
-</p>
